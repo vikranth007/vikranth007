@@ -47,8 +47,8 @@
     <td width="50%" valign="top">
       <h3 align="center">RecruitX</h3>
       <div align="center">
-        <a href="https://github.com/DivyamTalwar/RecruitX" target="_blank">
-          <img src="https://raw.githubusercontent.com/DivyamTalwar/AI-Hiring-Agent/main/Images/Logo.png" alt="RecruitX Banner"/>
+        <a href="https://github.com/vikranth007/RecruitX" target="_blank">
+          <img src="https://raw.githubusercontent.com/vikranth007/RecruitX/main/Images/Logo.png" alt="RecruitX Banner"/>
         </a>
         <p>
           <br>
