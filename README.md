@@ -52,14 +52,13 @@
         </a>
         <p>
           <br>
-          An AI-driven hiring platform featuring <strong>Explainable AI (XAI)</strong>, a **resume RAG chat**, and automated recruiter workflows.  
+          An AI-driven hiring platform featuring <strong>Explainable AI (XAI)</strong>, a resume RAG chat, and automated recruiter workflows.  
           Accelerates hiring by reducing screening time by <strong>60%</strong> and delivering evidence-based candidate scoring.
         </p>
         <div align="center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
           <img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
         </div>
       </div>
     </td>
