@@ -28,7 +28,7 @@
       <h3 align="center">AI-Marketing-Crew</h3>
       <div align="center">
         <a href="https://github.com/vikranth007/AI-Marketing-Crew" target="_blank">
-          <img src="https://github.com/vikranth007/AI-Marketing-Crew/blob/main/ai.png" alt="AI-Marketing-Crew Banner"/>
+          <img src="https://github.com/vikranth007/AI-Marketing-Crew/blob/main/image.png" alt="AI-Marketing-Crew Banner"/>
         </a>
         <p>
           <br>
