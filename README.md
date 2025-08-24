@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="display: inline-block; font-weight: bold;">Hi there, I'm Vikranth 👋</h1>
+  <h1 style="display: inline-block; font-weight: bold;">Hi there, I'm Vikram 👋</h1>
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
   
   <p>
     I design and build <strong>multi-agent, production-grade AI systems</strong> with a focus on <strong>Generative AI, RAG pipelines, and Agentic Workflows</strong>.  
-    My expertise spans <code>LangChain</code>, <code>CrewAI</code>, <code>FastAPI</code>, and <code>Streamlit</code> — delivering intelligent applications that automate <em>marketing, decision-making, and knowledge workflows</em>.
+    My expertise spans <code>LangChain</code>, <code>CrewAI</code>, <code>FastAPI</code>, and <code>Streamlit</code> — delivering intelligent applications      that automate <em>marketing, decision-making, and knowledge workflows</em>.
   </p>
 </div>
 
@@ -83,7 +83,6 @@
       <div align="center">
         <strong>Languages & Programming</strong><br><br>
         <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
         <img src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
       </div>
     </td>
@@ -146,29 +145,3 @@
 
 ---
 
-### 📊 My GitHub Story
-<p align="center">
-  <a href="https://github.com/vikranth007">
-    <img src="https://github-readme-stats.vercel.app/api?username=vikranth007&theme=merko&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&border_color=00000000" alt="Vikranth's GitHub Stats"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=vikranth007&theme=merko&hide_border=false&background=00000000&border=00000000" alt="Vikranth's GitHub Streak"/>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikranth007&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&border_color=00000000" alt="Vikranth's Top Languages"/>
-    <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=vikranth007&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="Vikranth's GitHub Trophies"/>
-  </a>
-</p>
-
-<div align="center">
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-</div>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=vikranth007&icon=0&color=0" />
-  </a>
-</p>
