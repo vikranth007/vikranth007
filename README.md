@@ -24,7 +24,7 @@
 ### 🚀 Featured Projects
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="40%" valign="top">
       <h3 align="center">AI-Marketing-Crew</h3>
       <div align="center">
         <a href="https://github.com/vikranth007/AI-Marketing-Crew" target="_blank">
